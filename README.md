@@ -2,9 +2,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilminiwithanawasam" alt="dilminiwithanawasam" /></a> </p>
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **javscript,react,python,django**
+- 💬 Ask me about **javscript,react,software Testing**
 
 - 📫 How to reach me **dilminiwithanawasam1250@gmail.com**
 
